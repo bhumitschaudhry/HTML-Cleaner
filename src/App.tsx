@@ -111,21 +111,6 @@ export function App() {
       <div className="mx-auto max-w-7xl">
         {/* Header */}
         <div className="mb-10 text-center">
-          <div className="mb-5 inline-flex h-12 w-12 items-center justify-center rounded-lg bg-[#6366f1]">
-            <svg
-              className="h-6 w-6 text-white"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-              strokeWidth={2}
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"
-              />
-            </svg>
-          </div>
           <h1 className="text-3xl font-semibold text-[#ffffff] md:text-4xl">
             CleanIt
           </h1>
